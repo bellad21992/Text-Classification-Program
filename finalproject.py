@@ -1,7 +1,5 @@
 #
-# finalproject2.py - Final Project, Part 2
-#
-# Part 3 - Adding Featuers to the model
+# finalproject.py - Comparing Text Models
 #
 
 import math
@@ -357,4 +355,4 @@ def run_tests():
     print()
     new4.classify(source1, source2)
     
-    
+run_tests()
